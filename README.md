@@ -11,7 +11,7 @@ Essa é a rota que permite o cliente realizar cadastrado.
 **Exemplo:**
 
 ```javascript
-// Corpo da requisição para cadastro de usuário (body)
+// Corpo da requisição para cadastro de cliente (body)
 {
    "nome": "Gregorio",
    "email": "gregorio@gregorohd.com.br",
